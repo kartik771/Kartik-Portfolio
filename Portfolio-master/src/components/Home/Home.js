@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import homeLogo from "../../Assets/home-main.svg";
+import homeLogo from "../../Assets/kp.jpg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
@@ -22,7 +22,7 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> SOUMYAJIT BEHERA</strong>
+                <strong className="main-name"> KARTIK PRUTHI</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
@@ -35,7 +35,8 @@ function Home() {
                 src={homeLogo}
                 alt="home pic"
                 className="img-fluid"
-                style={{ maxHeight: "450px" }}
+                // style={{ maxHeight: "450px" }}
+                style={{width: 400,  borderRadius: 400/2, maxHeight: "450px"}}
               />
             </Col>
           </Row>
