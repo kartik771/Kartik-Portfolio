@@ -9,7 +9,7 @@ function Type() {
           "Developer",
           "Software Developer in Making",
           "MERN Stack Developer",
-          "Data Structures and Algorithms Entusisast",
+          "Data Structures and Algorithms Enthusiast",
         ],
         autoStart: true,
         loop: true,

@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Kartik Pruthi </span>
             from <span className="purple"> Bahadurgarh , Haryana  , India.</span>
-            <br />I am an Engineer i making and currently persuing my <span className="purple">Bachelor's in Computer Science and Engineering </span> 
+            <br />I am an Engineer in making and currently persuing my <span className="purple">Bachelor's in Computer Science and Engineering </span> 
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -19,9 +19,7 @@ function AboutCard() {
             <li className="about-activity">
               <ImPointRight /> Playing Games
             </li>
-            <li className="about-activity">
-              <ImPointRight /> Writting
-            </li>
+            
             <li className="about-activity">
               <ImPointRight /> Travelling
             </li>
@@ -36,7 +34,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Kartik</footer>
         </blockquote>
       </Card.Body>
     </Card>

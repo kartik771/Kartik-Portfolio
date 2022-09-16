@@ -9,6 +9,7 @@ import {
   DiPython,
   DiGit,
   DiJava,
+  DiBootstrap,
   DiHtml5,
   DiCss3,
 } from "react-icons/di";
@@ -28,6 +29,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJava />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiBootstrap />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
